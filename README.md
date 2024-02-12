@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Robotics and data analysis
 - 🌱 I’m currently learning ... how to use APIs to retrieve data
 - 😄 Pronouns: ... they/them
-- ⚡ Fun fact: ... I am very interested in speedcubing
+- ⚡ Fun fact: ... I like speedcubing
 
 
 
