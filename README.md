@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Maya73939133
-- 👀 I’m interested in ... Robotics and data analysis
-- 🌱 I’m currently learning ... how to use APIs to retrieve data
-- 😄 Pronouns: ... they/them
-- ⚡ Fun fact: ... I like speedcubing
+
 
 
 
